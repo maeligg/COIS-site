@@ -164,6 +164,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #333;
 }
 
+#contact h1, #contact h3 {
+    color: #ffffff;
+}
+
 
 /* Paragraph & Typographic */
 p {
@@ -290,7 +294,6 @@ a:after {
 
 #headerwrap h1 {
 	color:#ffffff;
-	margin-top: 90px;
 	padding-bottom: 30px;
 	letter-spacing: 8px;
 	font-size: 100px;
@@ -336,7 +339,7 @@ a:after {
 }
 
 #footerwrap {
-	background: #2b2b2b;
+	background: #003366;
 	margin-top: 0px;
 	padding-top: 40px;
 	padding-bottom: 20px;
@@ -348,6 +351,16 @@ a:after {
 	color: white;
 }
 
+#contact {
+    background: #003366;
+    width: 100%;
+}
+
+#contact .row {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* ==========================================================================
    Box Sections
