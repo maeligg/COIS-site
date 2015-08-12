@@ -271,14 +271,12 @@ a:after {
    ========================================================================== */
 
 #headerwrap {	
-	margin-top: -50px;
-	padding-top:120px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 650px;
-	width: 100%;
-	
+    padding: 20% 0px;
+    text-align:center;
+    background-attachment: relative;
+    background-position: center center;
+    width: 100%;
+    	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
